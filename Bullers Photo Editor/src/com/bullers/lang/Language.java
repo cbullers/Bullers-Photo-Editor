@@ -5,14 +5,14 @@ import java.util.ResourceBundle;
 
 public class Language {
 
-	/*
+	/**
 	 * @name currentLocale
 	 * @desc The location, locale of the current program user
 	 * @date May 30th, 2016
 	 */
 	static Locale currentLocale = new Locale("en","US");
 	
-	/*
+	/**
 	 * @name getLangauge
 	 * @desc Returns the default language for the program
 	 * @returns new Language object

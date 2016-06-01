@@ -9,7 +9,7 @@ import java.awt.Toolkit;
  */
 public class Screen {
 
-	/*
+	/**
 	 * @name getWidth
 	 * @desc Returns the width of the screen
 	 * @date May 30th, 2016
@@ -18,7 +18,7 @@ public class Screen {
 		return (int)Toolkit.getDefaultToolkit().getScreenSize().getWidth();
 	}
 	
-	/*
+	/**
 	 * @name getHeight
 	 * @desc Returns the height of the screen
 	 * @date May 30th, 2016

@@ -13,7 +13,7 @@ public class Initialization {
 
 	}
 	
-	/*
+	/**
 	 * @name initializeOpeningWindow
 	 * @desc Inits the opening window, where it asks you what you want to do, etc...
 	 * @date May 30th, 2016

@@ -3,7 +3,7 @@ package com.bullers.extra;
 import java.awt.Color;
 import java.awt.Rectangle;
 
-/*
+/**
  * @class GraphicDescription
  * @desc Provides graphic information for different
  * components in Swing, mainly used in custom components
@@ -11,28 +11,28 @@ import java.awt.Rectangle;
  */
 public class GraphicDescription {
 
-	/*
+	/**
 	 * @name bgColor
 	 * @desc Field for the background color of a component
 	 * @date May 30th, 2016
 	 */
 	public Color bgColor;
 	
-	/*
+	/**
 	 * @name fgColor
 	 * @desc Field for the foreground color of a component
 	 * @date May 30th, 2016
 	 */
 	public Color fgColor;
 	
-	/*
+	/**
 	 * @name bounds
 	 * @desc The x, y, width, and height of a component
 	 * @date May 30th, 2016
 	 */
 	public Rectangle bounds;
 	
-	/*
+	/**
 	 * @constructor 1
 	 * @param bgColor: Background color
 	 * @date May 30th, 2016
@@ -41,7 +41,7 @@ public class GraphicDescription {
 		this.bgColor = bgColor;
 	}
 	
-	/*
+	/**
 	 * @constructor 2
 	 * @param bgColor: Background color
 	 * @param fgColor: Foreground color
@@ -52,7 +52,7 @@ public class GraphicDescription {
 		this.fgColor = fgColor;
 	}
 	
-	/*
+	/**
 	 * @constructor 3
 	 * @param bgColor: Background color
 	 * @param fgColor: Foreground color
