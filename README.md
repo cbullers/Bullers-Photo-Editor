@@ -1,3 +1,6 @@
+# Not currently being pursued
+Seems like a waste of time at the moment, return later and maybe something will have happened, I dunno.
+
 # Bullers-Photo-Editor
 Photo editor with cool features, utilizing image matrices!
 
